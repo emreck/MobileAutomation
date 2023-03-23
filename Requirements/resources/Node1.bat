@@ -1,0 +1,1 @@
+appium -p 4725 --nodeconfig C:\resources\node1.json
