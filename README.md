@@ -17,8 +17,4 @@ Bu iki dosya editörde açılarak, capability bilgileri güncellenip kaydedilmel
 
 5-Allure report sonuçları için : report sonuçlarının bulunduğu dosya dizininde "allure serve allure-report" Komutu çalıştırılmalıdır.
 
-Örnek koşum videosu aşağıda paylaşılmıştır :
-
-
-
-[Screen.webm](..%2F..%2FEkran%20kayd%FD%2FScreen.webm)
+** Örnek koşum videosu ve emülator yapılandırma dosyaları "requirements" klasörü altında paylaşılmıştır.
